@@ -12,6 +12,7 @@ Instructions included in the script: https://github.com/deviasoftware/azure-powe
 
 # Related Repos
 Testing DNS Records for Office 365 [DNS Check](https://github.com/jwyllys/dnschecker)  which tests the DNS records locally.
+
 Setting up DNS records in Cloudfare [cloudflare-office365-setup](https://github.com/redapesolutions/cloudflare-office365-setup)
 
 
