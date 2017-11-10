@@ -6,8 +6,12 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+Testing:
+Tested on Windows Server 2012 R2 against both Pageflex 8.X and Pageflex 9.X.  There is no reason it should not work with other versions.
+
 Description:
-This Powershell Script installs All necessary Features required for PF SErver and Storefront to run.
+This Powershell Script installs All necessary Features required for PF SErver and Storefront to run.  It basically automates the section 
+of the readme file:Internet Information Services (IIS), URL Rewrite Module, and Microsoft Message Queuing (MSMQ)  AND Support Article 1545
 
 #>
 
